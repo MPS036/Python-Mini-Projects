@@ -22,3 +22,8 @@ Each project is self-contained and located in its own directory.
 
 These projects are intentionally simple and represent early and intermediate learning stages.
 More advanced projects are available in separate repositories.
+
+## Requirements
+- Python 3.x;
+- PySide6 for Calculator;
+- requests for CurrencyConverter.
